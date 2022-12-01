@@ -1,18 +1,41 @@
 {
   "metadata": {
-    "author": "vBook",
-    "description": ""
+    "author": "BQY",
+    "description": "1996"
+    
   },
   "data": [
     {
-      "name": "uukanshu",
-      "author": "vBook",
-      "path": "https://github.com/BanQuyY/Vbook/blob/4eed3e4b2a7e423578b0081bd73baa9e12d5e589/ddxs/plugin.zip",
-      "version": 7,
-      "source": "https://uukanshu.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
-      "description": "Đọc truyện trên trang uukanshu.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    }
- 
+        "name": "ddxs",
+        "author": "BQY",
+        "path": "{
+  "metadata": {
+    "author": "BQY",
+    "description": "1996"
+    
+  },
+  "data": [
+    {
+        "name": "ddxs",
+        "author": "BQY",
+        "path": "https://github.com/BanQuyY/Vbook/blob/4eed3e4b2a7e423578b0081bd73baa9e12d5e589/ddxs/plugin.zip",
+        "version": 1,
+        "source": "https://ddxs.com",
+        "icon": "https://github.com/BanQuyY/Vbook/blob/29f3c29f34b8f3d6ed98b4b8f9a0e6a20250cf46/ddxs/icon.png?raw=true",
+        "description": "Đọc truyện trên ddxs",
+        "type": "chinese_novel",
+        "locale": "zh_CN",
+        
+      }
+  ]
+}",
+        "version": 1,
+        "source": "https://ddxs.com",
+        "icon": "https://github.com/BanQuyY/Vbook/blob/29f3c29f34b8f3d6ed98b4b8f9a0e6a20250cf46/ddxs/icon.png?raw=true",
+        "description": "Đọc truyện trên ddxs",
+        "type": "chinese_novel",
+        "locale": "zh_CN",
+        
+      }
+  ]
+}
