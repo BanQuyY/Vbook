@@ -1,7 +1,7 @@
 {
   "metadata": {
     "author": "BQY",
-    "description": "hai"
+    
   },
   "data": [
     {
@@ -14,7 +14,7 @@
         "description": "Đọc truyện trên trang khotruyentranhhot.com",
         "type": "chinese_novel",
         "locale": "zh_CN",
-        "tag" : "nsfw"
+        
       }
   ]
 }
