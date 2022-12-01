@@ -1,21 +1,17 @@
 {
   "metadata": {
-    "author": "BQY",
-    "description": "1996"
-    
+    "author": "vBook",
+    "description": ""
   },
   "data": [
     {
-        "name": "ddxs",
-        "author": "BQY",
-        "path": "https://github.com/BanQuyY/Vbook/blob/main/ddxs/icon.png?raw=true",
-        "version": 1,
-        "source": "https://ddxs.com",
-        "icon": "https://github.com/BanQuyY/Vbook/blob/29f3c29f34b8f3d6ed98b4b8f9a0e6a20250cf46/ddxs/icon.png?raw=true",
-        "description": "Đọc truyện trên ddxs",
-        "type": "chinese_novel",
-        "locale": "zh_CN",
-        
-      }
-  ]
-}
+      "name": "uukanshu",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/plugin.zip",
+      "version": 7,
+      "source": "https://uukanshu.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "Đọc truyện trên trang uukanshu.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
