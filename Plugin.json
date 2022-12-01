@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "author": "Đạt Bi",
-    "description": "1509"
+    "author": "BQY",
+    "description": "hai"
   },
   "data": [
     {
-        "name": "Kho Truyện Tranh",
-        "author": "dat-bi",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/khotruyentranh/plugin.zip",
-        "version": 5,
-        "source": "https://khotruyentranhhot.com",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/khotruyentranh/icon.png",
+        "name": "ddxs",
+        "author": "BQY",
+        "path": "https://raw.githubusercontent.com/BanQuyY/Vbook/blob/main/ddxs/plugin.zip",
+        "version": 1,
+        "source": "ddxs.com",
+        "icon": "https://raw.githubusercontent.com/BanQuyY/Vbook/blob/main/ddxs/icon.png",
         "description": "Đọc truyện trên trang khotruyentranhhot.com",
-        "type": "comic",
-        "locale": "vi_VN",
+        "type": "chinese_novel",
+        "locale": "zh_CN",
         "tag" : "nsfw"
       }
   ]
