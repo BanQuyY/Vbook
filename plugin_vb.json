@@ -25,7 +25,7 @@
       "description": "Đọc truyện trên trang Fanqie Novel API",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    }
+    },
    {
       "name": "STV Home",
       "author": "bqy",
