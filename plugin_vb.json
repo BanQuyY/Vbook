@@ -47,6 +47,17 @@
       "description": "Yushubo",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    } ,
+   {
+      "name": "twfanti",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/Twfanti/Twfanti.zip?raw=true",
+      "version": 1,
+      "source": "http://https://www.twfanti.com/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "Twfanti",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     } 
 ]
 }
