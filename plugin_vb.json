@@ -69,6 +69,17 @@
       "description": "121du",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    }   ,
+   {
+      "name": "Yousuu",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/Yousuu/Yousuu.zip?raw=true",
+      "version": 1,
+      "source": "http://https://www.yousuu.com/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "yousuu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     } 
 ]
 }
