@@ -113,6 +113,17 @@
       "description": "qiuxiaoshuo",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    } ,
+   {
+      "name": "szyangxiao",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/szyangxiao/szyangxiao.zip?raw=true",
+      "version": 1,
+      "source": "https://www.szyangxiao.com/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "szyangxiao",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     } 
 ]
 }
