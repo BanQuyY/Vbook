@@ -124,6 +124,28 @@
       "description": "szyangxiao",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    }  ,
+   {
+      "name": "plhydp",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/plhydp/plugin.zip?raw=true",
+      "version": 1,
+      "source": "https://www.plhydp.com/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "plhydp",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    } ,
+   {
+      "name": "ttkan",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/ttkan/plugin.zip?raw=true",
+      "version": 1,
+      "source": "https://cn.ttkan.co/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "ttkan",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     } 
 ]
 }
