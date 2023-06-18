@@ -137,15 +137,17 @@
       "locale": "zh_CN"
     } ,
    {
-      "name": "ibiqu",
+      "name": "778buy",
       "author": "bqy",
-      "path": "https://github.com/BanQuyY/Vbook/blob/main/Ibiqu/Ibiqu.zip?raw=true",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/778buy/778buy.zip?raw=true",
       "version": 1,
-      "source": "http://www.ibiqu.org/",
+      "source": "https://www.778buy.cc/",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
-      "description": "ibiqu",
+      "description": "778buy.cc",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    } 
+    }
+
+   
 ]
 }
