@@ -25,6 +25,17 @@
       "description": "STV Home",
       "type": "novel",
       "locale": "vi_VN"
+    },
+   {
+      "name": "STV",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/stv/STV.zip?raw=true",
+      "version": 2,
+      "source": "http://sangtacviet.vip",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "STV",
+      "type": "novel",
+      "locale": "vi_VN"
     } ,
    {
       "name": "Yushubo",
@@ -150,4 +161,5 @@
 
    
 ]
-}
+   }
+     
