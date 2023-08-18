@@ -126,13 +126,13 @@
       "locale": "zh_CN"
     }  ,
    {
-      "name": "plhydp",
+      "name": "69shu",
       "author": "bqy",
-      "path": "https://github.com/BanQuyY/Vbook/blob/main/plhydp/plugin.zip?raw=true",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/69shu/69shu.zip?raw=true",
       "version": 1,
-      "source": "https://www.plhydp.com/",
+      "source": "https://www.69shu.com/",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
-      "description": "plhydp",
+      "description": "69shu",
       "type": "chinese_novel",
       "locale": "zh_CN"
     } ,
