@@ -148,13 +148,13 @@
       "locale": "zh_CN"
     } ,
    {
-      "name": "778buy",
+      "name": "FQWEB",
       "author": "bqy",
-      "path": "https://github.com/BanQuyY/Vbook/raw/main/778buy/778buy.zip?raw=true",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/Fanqie%20API/Fanqienovel.zip?raw=true",
       "version": 1,
-      "source": "https://www.778buy.cc/",
+      "source": "fanqienovel.com",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
-      "description": "778buy.cc",
+      "description": "Fanqie",
       "type": "chinese_novel",
       "locale": "zh_CN"
     }
