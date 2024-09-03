@@ -157,7 +157,19 @@
       "description": "Fanqie",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+   {
+      "name": "UAA",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/uaa/Uaa.zip?raw=true",
+      "version": 1,
+      "source": "fanqienovel.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "UAA",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
+
 
    
 ]
